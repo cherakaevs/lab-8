@@ -10,4 +10,4 @@ elseif ("${CMAKE_CXX_COMPILER_ID}" STREQUAL "MSVC")
     add_compile_options(/W4 /D_CRT_SECURE_NO_WARNINGS)
 endif ()
 
-add_subdirectory(lab-10-graph)
+add_subdirectory(lab-8-data-structures)
